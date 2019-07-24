@@ -11,6 +11,9 @@ have and anyone that wants to do something with games can. So whether you have a
 hobby, just want to learn a new skill, or literally any other reason at all, you have a home here. Find somewhere to jump in, and build something
 awesome.
 
+Come join us on [Discord](https://discord.gg/sa6hhpw) to get in touch, ask any questions, get support for an idea, or just
+chat.
+
 ## What We Are Not
 Money makers. If you're looking for some free labor for your super-awesome-going-to-change-the-whole-world game, look elsewhere. We're a community
 of gamers that want to make the games we want to play. While we would love for some AAA studio to grab all our best ideas and put them into something
