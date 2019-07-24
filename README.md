@@ -20,9 +20,9 @@ here are to be sold, and there will be no discussion of profit, payment, or anyt
 ## Organization
 Development here goes through a few different stages:
 
-1. Ideas
+1. [Ideas](ideas.md)
 2. Game Design Docs (GDD's)
-3. Projects
+3. [Projects](projects.md)
 
 Ideas and Design Docs each have a spot in this repo, but everything that has evolved into a full-fledged project has it's own repo.
 
